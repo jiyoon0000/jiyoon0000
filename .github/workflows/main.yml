@@ -14,7 +14,7 @@ jobs:
       - uses: yosh1389111/github-profile-3d-contrib@0.7.1 
         env:  
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: jiyoon0000
       - name: Commit & Push 
         run:
           git config user.name jiyoon0000
