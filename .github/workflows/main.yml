@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: jiyoon0000
       - name: Commit & Push 
-        run:
+        run: |
           git config user.name jiyoon0000
           git config user.email rlawldbs9128@gmail.com
           git add -A .
