@@ -2,7 +2,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIYOON&fontAlign=50&fontAlignY=40&color=gradient)
 
 ---
+
 ## 🛠 Tech Stack
+
 <!-- Main Tech Stack -->
 <h3 align="left"><mark> ⚡ Main Tech Stack </mark></h3>
 
@@ -58,9 +60,32 @@
 
 ---
 
-## ✨ Stats ✨
+## ✨ Stats
 
-![Jiyoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyoon0000&bg_color=60,eee0ff,9db9fb&title_color=ffffff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoon0000&layout=compact&bg_color=60,eee0ff,9db9fb&title_color=ffffff&text_color=ffffff)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiyoon0000&bg_color=30,dff6ff,e6e6fa&title_color=444444&text_color=444444" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoon0000&layout=compact&bg_color=30,dff6ff,e6e6fa&title_color=444444&text_color=444444" height="200px"/>
+</div>
 
-![GitHub 3D Contribution](./profile-3d-contrib/profile-south-season-animate.svg?v=2)
+<br>
+
+## 🖼 3D Contribution
+
+![GitHub 3D Contribution](./profile-3d-contrib/profile-season-animate.svg?v=2)
+
+
+---
+
+## 📬 Contact
+
+<div align="left">
+  <a href="mailto:rlawldbs9128@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rlawldbs9128@gmail.com-dff6ff?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jy3574.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Tistory-e6e6fa?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jiyoon0000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-fffde7?style=for-the-badge&logo=github&logoColor=444444"/>
+  </a>
+</div>
