@@ -73,7 +73,6 @@
 
 ![GitHub 3D Contribution](./profile-3d-contrib/profile-season-animate.svg?v=2)
 
-
 ---
 
 ## 📬 Contact
@@ -89,3 +88,29 @@
     <img src="https://img.shields.io/badge/GitHub-fffde7?style=for-the-badge&logo=github&logoColor=444444"/>
   </a>
 </div>
+
+---
+
+## 📂 Projects
+
+- **LocalLife (로컬라이프)**  
+  지역 기반 커리어 탐색 플랫폼, 청년과 로컬 크리에이터를 연결하는 서비스  
+  *(KDT 해커톤 예선 진출작, 기획 및 개발 중)*  
+  <a href="https://github.com/orgs/salayo-team/repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub Repo-cccccc?style=for-the-badge&logo=github&logoColor=444444"/>
+  </a>
+
+- **CareerRoom**  
+  공공데이터와 AI 추천 기반 커리어 관리 플랫폼  
+  1인 개발 (백엔드 & 프론트) + 디자인팀 협업  
+  *(서울시 공공데이터 창업 경신대회 참가작, MVP 개발 완료, 추가 기능 개발 예정)*   
+  <a href="https://github.com/jiyoon0000/career" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub Repo-cccccc?style=for-the-badge&logo=github&logoColor=444444"/>
+  </a>
+
+- **TastefulAI – 오늘 뭐 먹지?**  
+  AI 메뉴 추천 & 실시간 채팅 서비스  
+  스파르타 내일배움캠프 최종 프로젝트, **1등 수상**  
+  <a href="https://github.com/tasteful-ai/tasteful-ai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub Repo-cccccc?style=for-the-badge&logo=github&logoColor=444444"/>
+  </a>
