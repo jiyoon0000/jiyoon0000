@@ -1,8 +1,6 @@
 <!--Title-->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIYOON&fontAlign=50&fontAlignY=40&color=gradient)
 
----
-
 ## 🛠 Tech Stack
 
 <!-- Main Tech Stack -->
