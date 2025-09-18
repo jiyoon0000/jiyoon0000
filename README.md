@@ -61,8 +61,8 @@
 ## ✨ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyoon0000&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,dff6ff,e6e6fa&title_color=444444&text_color=444444" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoon0000&layout=compact&langs_count=8&count_private=true&bg_color=30,dff6ff,e6e6fa&title_color=444444&text_color=444444" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jiyoon0000&bg_color=30,dff6ff,e6e6fa&title_color=444444&text_color=444444" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoon0000&layout=compact&bg_color=30,dff6ff,e6e6fa&title_color=444444&text_color=444444" height="200px"/>
 </div>
 
 <br>
